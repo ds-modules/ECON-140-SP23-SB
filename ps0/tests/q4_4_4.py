@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q4_4_4',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> "gdp_pc" in list(cleaned_gdp.columns)\nTrue', 'hidden': False, 'locked': False},
