@@ -1,3 +1,5 @@
+OK_FORMAT = True
+
 test = {   'name': 'q4_4_3',
     'points': 1,
     'suites': [   {   'cases': [   {'code': ">>> np.all(cleaned_gdp['emp'] > -1)\nTrue", 'hidden': False, 'locked': False},
